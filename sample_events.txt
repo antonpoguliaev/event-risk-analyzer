@@ -1,0 +1,16 @@
+LOGIN user101 success
+BET user101 20
+BET user101 30
+LOGIN user102 success
+BET user102 15
+WITHDRAW user102 5
+LOGIN user123 success
+BET user123 100
+BET user123 150
+LOGIN user456 fail
+LOGIN user456 fail
+LOGIN user456 fail
+BET user456 500
+WITHDRAW user456 1000
+LOGIN user789 success
+BET user789 10
